@@ -22,4 +22,9 @@ wsb-docker-task/
 ├── package.json         # Zależności i skrypty
 └── vite.config.js       # Konfiguracja Vite
 ```
-## ww
+## .dockerifnore
+```
+node_modules
+dist
+.git
+```
