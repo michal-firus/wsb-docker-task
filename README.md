@@ -32,7 +32,7 @@ node_modules
 dist
 .git
 ```
-##
+## Rozmiary obrazów
 | Wersja | Opis | Rozmiar |
 | :--- | :--- | :--- |
 | 1.0.0 (build stage) | Obraz deweloperski (Node.js + dependencies) | 308.17 MB |
