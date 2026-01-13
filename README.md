@@ -2,6 +2,7 @@
 Aplikacja z mini-koszykiem sklepowym skonteneryzowana przy użyciu Dockera.
 
 ## Budowanie obrazu Docker
+---
 `docker build -t moj-sklep .`
 
 ## Uruchamianie kontenera
