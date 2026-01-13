@@ -7,6 +7,7 @@ Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
 
 ## Uruchamianie kontenera
 `docker run -p 8080:80 moj-sklep`
+
 Otwórz na http://localhost:8080
 
 
