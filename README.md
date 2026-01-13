@@ -5,17 +5,17 @@ Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
 1. `docker build -t moj-sklep .`
 2. `docker run -p 8080:80 moj-sklep`
 
-# Struktura katalogów
+### Struktura katalogów
+```text
 wsb-docker-task/
-├── public/              
-├── src/                
-│   ├── assets/          
-│   ├── App.jsx          
-│   ├── main.jsx         
-│   └── App.css         
-├── Dockerfile           
-├── .dockerignore       
-├── .gitignore
-├── index.html
-├── package.json 
-└── vite.config.js
+├── public/              # Pliki statyczne
+├── src/                 # Kod źródłowy aplikacji
+│   ├── assets/          # Grafiki i logotypy
+│   ├── App.jsx          # Główna logika koszyka
+│   ├── main.jsx         # Renderowanie React
+│   └── App.css          # Style CSS
+├── Dockerfile           # Instrukcje budowania kontenera
+├── .dockerignore        # Pliki pomijane przez Docker
+├── .gitignore           # Pliki pomijane przez Git
+├── package.json         # Zależności i skrypty
+└── vite.config.js       # Konfiguracja Vite
