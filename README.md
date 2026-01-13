@@ -1,6 +1,6 @@
 # Zadanie WSB - Docker
 Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
-
+---
 
 ## Budowanie obrazu Docker
 `docker build -t moj-sklep .`
@@ -9,7 +9,7 @@ Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
 `docker run -p 8080:80 moj-sklep`
 
 Otwórz na http://localhost:8080
-
+---
 
 ## Struktura katalogów
 ```
@@ -33,6 +33,7 @@ node_modules
 dist
 .git
 ```
+---
 ## Rozmiary obrazów
 | Wersja | Opis | Rozmiar |
 | :--- | :--- | :--- |
