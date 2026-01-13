@@ -1,4 +1,4 @@
-# Zadanie WSB - Docker
+# Zadanie Rekrutacyjne
 Aplikacja z mini-koszykiem sklepowym skonteneryzowana przy użyciu Dockera.
 
 ---
