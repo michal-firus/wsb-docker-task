@@ -32,3 +32,8 @@ node_modules
 dist
 .git
 ```
+##
+| Wersja | Opis | Rozmiar |
+| :--- | :--- | :--- |
+| 1.0.0 (build stage) | Obraz deweloperski (Node.js + dependencies) | 308.17 MB |
+| 2.0.0 (final stage) | Obraz zoptymalizowany (Nginx + static files) | 92.43 MB |
