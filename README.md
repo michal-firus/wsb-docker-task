@@ -21,5 +21,5 @@ wsb-docker-task/
 ├── .gitignore           # Pliki pomijane przez Git
 ├── package.json         # Zależności i skrypty
 └── vite.config.js       # Konfiguracja Vite
-
+```
 ## ww
