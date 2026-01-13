@@ -1,8 +1,5 @@
 # Zadanie WSB - Docker
-Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
-```
----
-```
+Aplikacja z koszykiem sklepowym skonteneryzowana przy użyciu Dockera.
 
 ## Budowanie obrazu Docker
 `docker build -t moj-sklep .`
