@@ -10,7 +10,7 @@ Aplikacja z mini-koszykiem sklepowym skonteneryzowana przy użyciu Dockera.
 
 Otwórz na http://localhost:8080
 
-
+---
 ## Struktura katalogów
 ```
 wsb-docker-task/
