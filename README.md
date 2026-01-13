@@ -6,7 +6,7 @@ Projekt zawiera aplikację React skonteneryzowaną przy użyciu Dockera.
 2. `docker run -p 8080:80 moj-sklep`
 
 ### Struktura katalogów
-```text
+#```text
 wsb-docker-task/
 ├── public/              # Pliki statyczne
 ├── src/                 # Kod źródłowy aplikacji
